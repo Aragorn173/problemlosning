@@ -7,9 +7,9 @@ public class String3 {
         String b = string1.reverse(a);
 
         if (a.equals(b)) {
-            System.out.println("ordet " + a + "är en palindrom");
+            System.out.println("ordet " + a + " är en palindrom");
         } else {
-            System.out.println("ordet " + a + "är inte en palindrom");
+            System.out.println("ordet " + a + " är inte en palindrom");
         }
 
     }
